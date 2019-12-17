@@ -1,0 +1,8 @@
+//To compilate
+apply plugin: 'java'
+
+//To facilitate creating an executable JVM application
+apply plugin: 'application'
+
+//To know what to facilitate
+mainClassName = "MyFirstProgramm"
